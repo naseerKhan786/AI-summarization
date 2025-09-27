@@ -25,3 +25,7 @@ cd text-summarizer-api
 
 # Install dependencies
 npm install
+## Credits / Acknowledgements
+
+- This project is based on code originally created by **trackzero**.
+- Backend: Node.js + Express
