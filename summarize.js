@@ -22,3 +22,8 @@ export default async function summarizeText(text) {
     throw err;
   }
 }
+/**
+ * AI Video Generator
+ * Original code by: trackzero
+ * Modified by: Nasir_AI
+ */
