@@ -45,7 +45,7 @@ app.listen(port, () => {
   console.log(`🚀 Server running at http://localhost:${port}/`);
 });
 /**
- * AI Video Generator
+ * AI summarization Generator
  * Original code by: trackzero
  * Modified by: Nasir_AI
  */
