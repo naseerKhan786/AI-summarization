@@ -23,7 +23,7 @@ export default async function summarizeText(text) {
   }
 }
 /**
- * AI Video Generator
+ * AI summarization Generator
  * Original code by: trackzero
  * Modified by: Nasir_AI
  */
