@@ -1,0 +1,7 @@
+text-summarizer-api/
+├── server.js         # Express server
+├── summarize.js      # Summarization logic
+├── package.json      # Project dependencies
+├── .env              # Environment variables
+├── public/           # Static files (optional frontend)
+└── README.md         # Documentation
