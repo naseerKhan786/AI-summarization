@@ -44,3 +44,7 @@ app.use((err, req, res, next) => {
 app.listen(port, () => {
   console.log(`🚀 Server running at http://localhost:${port}/`);
 });
+/**
+ * AI Video Generator
+ * Original code by: trackzero
+ * Modified by: Nasir_AI
